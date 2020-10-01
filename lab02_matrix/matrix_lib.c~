@@ -1,0 +1,16 @@
+/*
+	author: Keegan Fouse
+	Matrix Library for CS1566
+	Intro to Computer Graphics
+*/
+
+
+#include <stdlib.h>
+#include <stdio.h>
+#include "matrix_lib.h"
+
+void vec_print(vec4 v){
+	printf("[%.2f, %.2f, %.2f, %.2f]", v.x, v.y, v.z, v.w);
+}
+
+
