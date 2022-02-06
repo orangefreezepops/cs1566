@@ -32,7 +32,6 @@ the motion function and mouse function compute the points from mouse events
 then compute the z coordinate by manipulating the formulas given in class to put them in 3 dimensions. the mouse just zooms on scroll functions. The motion function uses the fomula in the slides to create matrices for x and y rotations about thetax and thetay
 there are comments throughout the code to guide and explain.
 
-there are comments through out the document to explain
 
-the program runs without error, but the rotation gets a little wonky about the y axis
+the program runs without error
 
